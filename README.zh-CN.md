@@ -1,4 +1,6 @@
-# his-vue3
+<h1 align="center">his-vue3</h1>
+
+---
 
 ## 项目设置
 ```

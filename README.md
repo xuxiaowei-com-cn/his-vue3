@@ -1,4 +1,4 @@
-# his-vue3
+<h1 align="center">his-vue3</h1>
 
 <p align="center">
   CN&nbsp;<a href="./README.zh-CN.md">中文版介绍</a>

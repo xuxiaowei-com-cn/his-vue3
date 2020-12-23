@@ -1,5 +1,9 @@
 # his-vue3
 
+<p align="center">
+  CN&nbsp;<a href="./README.zh-CN.md">中文版介绍</a>
+</p>
+
 ## Project setup
 ```
 npm install

@@ -1,4 +1,4 @@
-# his-vue
+# his-vue3
 
 ## Project setup
 ```

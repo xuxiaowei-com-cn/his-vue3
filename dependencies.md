@@ -11,5 +11,9 @@
 ### core-js
 - [TAONPM](https://developer.aliyun.com/mirror/npm/package/core-js)
 
+### element-plus
+- [TAONPM](https://developer.aliyun.com/mirror/npm/package/element-plus)
+- [Element Plus](https://element-plus.org)
+
 ### vue
 - [TAONPM](https://developer.aliyun.com/mirror/npm/package/vue)
